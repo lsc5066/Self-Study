@@ -18,5 +18,62 @@
     <ClCompile Include="1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="8.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="9.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="15.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="17.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="18.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="19.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="20.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
