@@ -14,6 +14,5 @@ int main()
 
 	printf("%+10x\n", a);
 	printf("%0+10x\n", a); // 16Áø¼ö
-	// 1
-	return 0;
+	return 0; // 1
 }
