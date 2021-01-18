@@ -1,0 +1,4 @@
+﻿  11.c
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch5_Exercise\11.c(6,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch5_Exercise\11.c(11,1): warning C4244: '초기화 중': 'double'에서 'unsigned __int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ch5_Exercise.vcxproj -> C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch5_Exercise\Debug\Ch5_Exercise.exe
