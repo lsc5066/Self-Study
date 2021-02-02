@@ -1,0 +1,3 @@
+﻿  15.c
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch10_Exercise\15.c(50): warning C4715: 'isequalarray': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Ch10_Exercise.vcxproj -> C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch10_Exercise\Debug\Ch10_Exercise.exe
