@@ -1,0 +1,8 @@
+﻿  6.c
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch12_Exercise\6.c(74,29): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch12_Exercise\6.c(74,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch12_Exercise\6.c(85,29): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch12_Exercise\6.c(85,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch12_Exercise\6.c(96,29): warning C4474: 'scanf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch12_Exercise\6.c(96,29): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  Ch12_Exercise.vcxproj -> C:\Users\leesc\Desktop\9noeS\Self-Study\C\Ch12_Exercise\Debug\Ch12_Exercise.exe
